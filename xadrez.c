@@ -38,6 +38,22 @@ int torre=1;
         rainha++;
     }
 
+                    ////MOVIMENTO DO CAVALO
+
+    int movimento=1;
+int i;
+while (movimento--)
+{
+
+
+for (i = 0; i <=1; i++)
+{ 
+    printf("CAVALO - CIMA\n");
+
+}
+printf("CAVALO - DIREITA\n");
+}
+
 
 
 
